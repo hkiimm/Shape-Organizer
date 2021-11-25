@@ -1,2 +1,2 @@
 # Shape-Organizer
-Final Gr. 10 computer science project coded using Turing.
+Completed for my final project for the ICS2U0 course. I created a program in Turing.
